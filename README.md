@@ -1,4 +1,4 @@
-### Olá, eu sou a EstefannY Oliveira 👋
+### Olá, eu sou a Estefanny Oliveira 👋
 
 
 - 🌱 Estudando HTML, CSS e JavaScript
